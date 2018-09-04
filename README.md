@@ -1,3 +1,1 @@
-# web_scraping
-# web_scraping
-# web_scraping
+getting weather info from users zip code 
